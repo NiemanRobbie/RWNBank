@@ -1,0 +1,3 @@
+/Users/robertnieman/sdgunit1/RWNBank/obj/Debug/netcoreapp3.1/RWNBank.csprojAssemblyReference.cache
+/Users/robertnieman/sdgunit1/RWNBank/obj/Debug/netcoreapp3.1/RWNBank.AssemblyInfoInputs.cache
+/Users/robertnieman/sdgunit1/RWNBank/obj/Debug/netcoreapp3.1/RWNBank.AssemblyInfo.cs
